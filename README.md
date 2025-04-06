@@ -1,4 +1,4 @@
-# CryoMesh Engine
+# Eclipse Engine
 
 > **NOTE**
 >
